@@ -20,6 +20,7 @@ public class FirstProject {
 		// webdriver.manage().window().maximize();
 		Thread.sleep(2000L);
 		System.out.println(webdriver.findElements(By.xpath("//fieldset/label/input[@type='checkbox']")).size());
+		System.out.println("Test Passed");
 		webdriver.close();
 	}
 

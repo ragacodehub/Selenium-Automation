@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-13">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-21">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Selenium Jars/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium Jars/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium Jars/libs/byte-buddy-1.8.15.jar"/>
@@ -14,5 +15,42 @@
 	<classpathentry kind="lib" path="C:/Selenium Jars/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium Jars/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="C:/TestNG Jar/testng-6.7.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-api-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-api-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-chrome-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-chrome-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-chromium-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-chromium-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v85-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v85-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v121-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v121-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v122-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v122-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v123-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-devtools-v123-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-edge-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-edge-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-firefox-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-firefox-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-http-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-http-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-ie-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-ie-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-java-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-java-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-json-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-json-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-manager-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-manager-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-manager-4.20.0-SNAPSHOT-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-os-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-os-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-remote-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-remote-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-safari-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-safari-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-support-4.19.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium Jars/Latest Selenium Jars/selenium-support-4.19.1-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
