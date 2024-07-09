@@ -25,6 +25,7 @@ public class Assignment4 {
 		System.out.println(driver.findElement(By.xpath("//div[@class='example']/h3")).getText());
 		driver.switchTo().window(parentid);
 		System.out.println(driver.findElement(By.xpath("//div[@class='example']/h3")).getText());
+		System.out.println("Assignment 4 completed");
 		driver.quit();
 	}
 
