@@ -17,6 +17,7 @@ public class Assignment3 {
 		driver.findElement(By.linkText("Click to load get data via Ajax!")).click();
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("results")));
 		System.out.println(driver.findElement(By.id("results")).getText());
+		System.out.println("Assignment 3 updated to branch from gitProject");
 		driver.quit();
 	}
 }
