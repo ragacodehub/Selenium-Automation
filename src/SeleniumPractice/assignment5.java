@@ -26,6 +26,7 @@ public class assignment5 {
 		} else {
 			System.out.println("False");
 		}
+		System.out.print("Assignment 5 branch is updated");
 		driver.quit();
 	}
 
